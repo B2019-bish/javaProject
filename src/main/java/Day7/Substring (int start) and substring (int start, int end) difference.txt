@@ -1,0 +1,2 @@
+substring (int startIndex) outputs all the character in a string after startIndex index.  
+substring (int startIndex, int endIndex) outputs all the characters between startIndex and endIndex indexes.
